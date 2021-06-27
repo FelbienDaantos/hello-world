@@ -1,4 +1,13 @@
 # hello-world
 Coding repository
 
-Hi I'm Felbien! I'm trying out these pre course because I want to learn more about software development. EMEEEEEEE >.< 
+- 👋 Hi, I’m @FelbienDaantos
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+FelbienDaantos/hello-world is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
